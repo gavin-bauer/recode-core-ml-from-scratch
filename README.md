@@ -11,6 +11,7 @@ In order to understand the details of the most frequent algorithms in Machine Le
 
 ## Table of content
 * Gradient Descent Regressor: [Python script](gradient-descent-regressor.py) | [Detailed explanations](https://gavin-bauer.netlify.com/2020/03/gradient-descent-regressor/)
+* Logistic Regression: [Python script](logistic-regression.py)
 
 
 ## Built with
