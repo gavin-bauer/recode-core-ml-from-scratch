@@ -12,6 +12,8 @@ In order to understand the details of the most frequent algorithms in Machine Le
 ## Table of content
 * Gradient Descent Regressor: [Python script](gradient-descent-regressor.py) | [Detailed explanations](https://gavin-bauer.netlify.com/2020/03/gradient-descent-regressor/)
 * Logistic Regression: [Python script](logistic-regression.py)
+* Logistic Regression Image Classifier: [Jupyter notebook]() | [Detailed Explanations](https://gavin-bauer.netlify.com/2020/03/logistic-regression-image-classifier/)
+* Shallow Neural Network: [Jupyter notebook]() | [Detailed Explanations]() 
 
 
 ## Built with
